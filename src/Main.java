@@ -7,6 +7,7 @@ public class Main {
                 nums[i]++;
             }
         }
+
         catch (ArrayIndexOutOfBoundsException e){
             System.out.println("Ошибка");
         }
